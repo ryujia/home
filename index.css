@@ -238,6 +238,18 @@
 .portfolioUl img{
 		width:100%;
 	}
+
+.htmlPortfolioUl{
+	max-width:1000px;
+	margin:0 auto;
+}
+.htmlPortfolioUl li{
+	margin-top:5px;
+	
+}
+.htmlPortfolioUl li a{
+	font-size:13pt;
+}
 #map{
 	width:90%;
 	height:400px;
